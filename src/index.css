@@ -1,0 +1,76 @@
+/* Global */
+
+a:hover{
+  color: #FFF;
+  text-decoration: none;
+}
+
+/* Header */
+
+.navbar-styles{
+  background: rgb(0,134,255);
+  background: linear-gradient(90deg, rgba(0,134,255,1) 0%, rgba(2,0,36,1) 100%, rgba(9,43,121,1) 100%);
+}
+
+.navbar-styles a{
+  text-decoration: none;
+  color: #FFF;
+  font-size: 1.8rem;
+}
+
+.logo{
+  margin-top: -18px;
+}
+
+/* Form */
+
+.title{
+  color: #FFF;
+  font-size: 1.8rem;
+  font-weight: bold;
+}
+
+.button{
+  background-color: rgb(33, 74, 207);
+  color: #FFF;
+  border: none;
+  border-radius: 30px;
+  padding: 10px;
+  font-weight: 600;
+  outline: none;
+  transition: background-color .5s ease-in;
+}
+
+.button:hover{
+  background-color: rgba(13, 13, 148, 0.8);
+}
+
+.form-title{
+  font-weight: 400;
+}
+
+.card:hover{
+  cursor: pointer;
+  transition-duration: 0.5s;
+  transform: scale(1.01);
+}
+
+/* Footer */
+
+.footer{
+  font-family: 'Century Gothic';
+  text-align: center;
+  font-size: .9rem;
+  font-weight: 600;
+  padding: 15px;
+  margin-top: 2rem;
+  bottom: 0;
+}
+
+.footer p{
+  margin: 0 auto;
+}
+
+.author{
+  color: rgb(21, 124, 214);
+}
