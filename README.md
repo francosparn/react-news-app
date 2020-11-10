@@ -1,3 +1,9 @@
+## Preview 
+
+News application developed with React. To get news, an API called NewsAPI.org was used. HTML, CSS and Bootstrap 5 were used for its design.
+
+![](https://i.imgur.com/a7auPtL.png)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
